@@ -6,6 +6,7 @@ import static org.junit.Assert.assertTrue;
 
 public class BunTest extends BaseTest{
 
+
     @Test
     public void bunGetNameMethodReturnsName(){
         bun = new Bun("testName", 12);
